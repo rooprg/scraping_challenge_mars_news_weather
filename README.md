@@ -6,7 +6,7 @@ Part 1: Scrape Titles and Preview Text from Mars News -  code posted as an ipynb
 
 Part 2: Scrape and Analyze Mars Weather Data -
 
-(a) code posted as posted as an ipynb file titled "part_2_mars_weather_roop,ipynb"
+(a) code posted as posted as an ipynb file titled "part_2_mars_weather_roop.ipynb"
 
 (b) csv file posted in a file titled "module_11_challenge_roop.csv"
 
