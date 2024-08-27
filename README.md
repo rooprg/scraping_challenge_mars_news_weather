@@ -54,7 +54,7 @@ Average Temperature by Month:
 ![Average Temperature by Month](Output/p2_temperature_by_month.png)
 
 
-coldest and hottest months in Curiosity's location:
+Coldest and hottest months in Curiosity's location:
 
 ![coldest and hottest months in Curiosity's location](Output/p2_coldest_months.png)
 
