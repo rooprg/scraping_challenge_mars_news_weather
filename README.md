@@ -3,27 +3,60 @@
 
 **(1) Project Overview and Purpose:**
 
+
 The purpose of this exercise is identify HTML elements on a webpage, including their id and class attributes, and use this knowledge to extract information via both automated browsing with Splinter and HTML parsing with Beautiful Soup. This will include HTML tables and recurring elements, like multiple news articles on a webpage. After collecting data, it will be organized, stored, and analyzed, after which insights will be visually communicated.
 
 
 **(2) Dataset Description:**
 
-(Describe the dataset used in the project, including the source of the data, the number of records, and any relevant information about the data)
+
+Part I uses data from the website, https://static.bc-edx.com/data/web/mars_news/index.html. It is comprised of articles about Mars news.
+
+
+Part II uses data from the website, https://static.bc-edx.com/data/web/mars_facts/temperature.html. It is comprised of Mars temperature (and other weather) data.
 
 
 **(3) Data Cleaning and Preprocessing:**
 
-(Explain the steps taken to clean and preprocess the data before visualization. This could include handling missing values, removing duplicates, and transforming data)
+
+There was no data cleaning in Part I. Data was scraped from website as is.
+
+For Part II, data types were changed from "object" to integer; float; and datatime prior to analysis.
 
 
 **(4) Data Visualization Techniques:**
 
-(Detail the data visualization techniques used in the project, such as bar charts, line graphs, scatter plots, etc. Explain why these techniques were chosen and how they help in understanding the data)
+
+(a) Part I generated in an articles list generated via .ipynb code.
+
+
+(b) Part II generated a DataFrame; three bar charts; and a histogram.
 
 
 **(5) Results and Analysis:**
 
-(Present the insights gained from the data visualization. Describe any patterns, trends, or relationships discovered in the data)
+
+(a) Part I- list of articles on  https://static.bc-edx.com/data/web/mars_news/index.html
+
+![Article List](Output/p1_articles_list.png)
+
+
+(b) Part II-
+
+![DataFrame]((Output/p2_mars_df.png)
+
+
+![Average Temperature by Month](Output/p2_temperature_by_month.png)
+
+
+![coldest and hottest months in Curiosity's location](Output/p2_coldest_months.png)
+
+
+![Average Pressure by Month](Output/p2_average_pressure_per_month.png)
+
+
+![Terrestrial Days in Martian year](Output/p2_terrestrial_days_per_martian_year.png)
+
 
 
 **(6) Ethical Considerations:**
