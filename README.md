@@ -41,9 +41,9 @@ For Part II, data types were changed from "object" to integer; float; and datati
 ![Article List](Output/p1_articles_list.png)
 
 
-(b) Part II-
+(b) Part II Outputs-
 
-![DataFrame]((Output/p2_mars_df.png)
+![DataFrame](Output/p2_mars_df.png)
 
 
 ![Average Temperature by Month](Output/p2_temperature_by_month.png)
@@ -57,6 +57,26 @@ For Part II, data types were changed from "object" to integer; float; and datati
 
 ![Terrestrial Days in Martian year](Output/p2_terrestrial_days_per_martian_year.png)
 
+
+ANALYSIS:
+
+
+Which month, on average, has the lowest temperature? The highest?
+
+
+On average, the third month has the coldest minimum temperature on Mars, and the eighth month is the warmest. But it is always very cold there in human terms!
+
+
+Which month, on average, has the lowest atmospheric pressure? The highest?
+
+
+Atmospheric pressure is, on average, lowest in the sixth month and highest in the ninth.
+
+
+How many terrestrial days exist in a Martian year? A visual estimate within 25% was made.
+
+
+The distance from peak to peak is roughly 1425-750, or 675 days. A year on Mars appears to be about 675 days from the plot. Internet search confirms that a Mars year is equivalent to 687 earth days.
 
 
 **(6) Ethical Considerations:**
