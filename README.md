@@ -121,4 +121,4 @@ The dataset for this exercise is publically available on a website, but may also
 
      (iv) Directory question for saving .csv files
 
-(e) Code syntax questions when errors received
+     (v) Code syntax questions when errors received
