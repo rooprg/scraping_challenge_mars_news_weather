@@ -21,7 +21,7 @@ Part II uses data from the website, https://static.bc-edx.com/data/web/mars_fact
 
 There was no data cleaning in Part I. Data was scraped from website as is.
 
-For Part II, data types were changed from "object" to integer; float; and datatime prior to analysis.
+For Part II, several data types were changed from object to integer; float; and datatime prior to analysis.
 
 
 **(4) Data Visualization Techniques:**
@@ -43,18 +43,24 @@ For Part II, data types were changed from "object" to integer; float; and datati
 
 (b) Part II Outputs-
 
+
+Pandas DataFrame of Scraped Data:
 ![DataFrame](Output/p2_mars_df.png)
 
 
+Average Temperature by Month:
 ![Average Temperature by Month](Output/p2_temperature_by_month.png)
 
 
+coldest and hottest months in Curiosity's location:
 ![coldest and hottest months in Curiosity's location](Output/p2_coldest_months.png)
 
 
+Average Pressure by Month:
 ![Average Pressure by Month](Output/p2_average_pressure_per_month.png)
 
 
+Terrestrial Days in Martian year:
 ![Terrestrial Days in Martian year](Output/p2_terrestrial_days_per_martian_year.png)
 
 
